@@ -1,0 +1,1 @@
+/home/yuuta/repos/rust/KnightEngineProject/target/wasm32-unknown-emscripten/release/libKnightEngine.rlib: /home/yuuta/repos/rust/KnightEngineProject/KnightEngine/src/../../shaders/default_fragment_shader.glsl /home/yuuta/repos/rust/KnightEngineProject/KnightEngine/src/../../shaders/default_vertex_shader.glsl /home/yuuta/repos/rust/KnightEngineProject/KnightEngine/src/lib.rs
